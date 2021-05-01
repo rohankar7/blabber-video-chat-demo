@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blabber-video-chat-demo/static/css/main.965b0c45.chunk.css",
+    "main.js": "/blabber-video-chat-demo/static/js/main.29995ec9.chunk.js",
+    "main.js.map": "/blabber-video-chat-demo/static/js/main.29995ec9.chunk.js.map",
+    "runtime-main.js": "/blabber-video-chat-demo/static/js/runtime-main.3894671b.js",
+    "runtime-main.js.map": "/blabber-video-chat-demo/static/js/runtime-main.3894671b.js.map",
+    "static/js/2.54727bd8.chunk.js": "/blabber-video-chat-demo/static/js/2.54727bd8.chunk.js",
+    "static/js/2.54727bd8.chunk.js.map": "/blabber-video-chat-demo/static/js/2.54727bd8.chunk.js.map",
+    "index.html": "/blabber-video-chat-demo/index.html",
+    "static/css/main.965b0c45.chunk.css.map": "/blabber-video-chat-demo/static/css/main.965b0c45.chunk.css.map",
+    "static/js/2.54727bd8.chunk.js.LICENSE.txt": "/blabber-video-chat-demo/static/js/2.54727bd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3894671b.js",
+    "static/js/2.54727bd8.chunk.js",
+    "static/css/main.965b0c45.chunk.css",
+    "static/js/main.29995ec9.chunk.js"
+  ]
+}
